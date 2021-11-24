@@ -1,7 +1,3 @@
 # Movies-ETL
 
-The purpose of this challenge was to create an automated process that will take new data, extract it from its source, tranform it into readable and consistant data (per it's properties) and load it into a new table for the appropriate audience. 
-
-It was challenging and refreshing, albeit I do have some errors in my code, I learned a lot through this challenge. 
-
-Thank you for the opportunity!
+Please refer to the Mod_8 Challenge Resubmission from 11/24/21. As well, refer to the Resources ZIP file for raw data that was used in this challenge. Thank you!
